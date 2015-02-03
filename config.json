@@ -1,0 +1,6 @@
+{
+	"host": "localhost",
+	"port": 28015,
+	"db": "dbname",
+	"authKey": "only-set-if-you-have-an-auth-key"
+}
